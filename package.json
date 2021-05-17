@@ -1,0 +1,18 @@
+{
+  "name": "commando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Aries.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2"
+  }
+}
